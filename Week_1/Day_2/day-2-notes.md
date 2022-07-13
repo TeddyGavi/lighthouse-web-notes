@@ -16,4 +16,4 @@
 
 
 ### assertEqual and Head and Tail
- - wouldn't it be easier to loop from all parameters passed to the function and see if they are equal?
+ - wouldn't it be easier to loop from all arguements passed to the function and see if they are equal?
