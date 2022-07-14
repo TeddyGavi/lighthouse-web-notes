@@ -17,3 +17,11 @@
 
 ### assertEqual and Head and Tail
  - wouldn't it be easier to loop from all arguements passed to the function and see if they are equal?
+
+### Functions?
+ - functions accept what?
+ > parameters
+ - functions are called with what?
+ > arguments 
+ - parmeters are defined once, but functions are called with many different arguments
+ 
