@@ -4,3 +4,7 @@
 - the last bit of the message is called stack trace
 > shows the state of our program when the error occurred
 - general rule of thumb is to read the error message closely and to look at the suspicious lines of code closely for syntax errors or typos or misspelled words
+
+### Truthy and Falsey
+- What are the the falsey values
+> Flase, 0, "", null, undefined, NaN
