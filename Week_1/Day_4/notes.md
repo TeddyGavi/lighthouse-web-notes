@@ -8,3 +8,4 @@
 ### Truthy and Falsey
 - What are the the falsey values
 > Flase, 0, "", null, undefined, NaN
+- Implicit type conversion, this is when we don't use strict equals to compare two values and JS tries to convert the values into the same type as well as value
