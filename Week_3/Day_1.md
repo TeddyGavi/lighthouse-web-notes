@@ -23,3 +23,7 @@ console.log("Hello, " + test.nameAndAge());
 - the base case if true, the function will not call itself
 - the recursive case if true the function will continue to call itself
 - the input must gradually resolve toward the base case
+
+### Libraries versus Packages
+- Libraries are a collection of pre written code
+- packages are self contained code libraries that we can install and use in our projects
