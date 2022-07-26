@@ -27,3 +27,29 @@ console.log("Hello, " + test.nameAndAge());
 ### Libraries versus Packages
 - Libraries are a collection of pre written code
 - packages are self contained code libraries that we can install and use in our projects
+- modules are JS code that is a separate file that can be required by other js programs
+- node_modules should never be commited
+- package.json should be commited to the repo
+
+### Unit testing
+- what is it?
+> breaking up code into smaller units and testing individual functions and in an isolated environment
+- we dont have to perform manual test over and over
+
+### Integration testing
+- testing how parts of a system work together
+
+### Functional testing
+- this is AKA E2E testing or browser testing
+- testing of complete functionality of some application
+
+### TDD is test-driven development
+- five step process when writing tests
+
+    1. What are the inputs to our function and what is the output (behavior) we want from calling the function?
+    2. Decide how calling the function from code works
+    3. Choose the smallest possible piece of behavior for some inputs that you can think of
+    4. Write a test which uses those inputs to call the function, and verify the behavior
+    5. Implement enough code to make the test pass 
+- reapet step 3-5 working one tiny step ahead
+- [codeutopia source](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
