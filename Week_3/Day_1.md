@@ -53,3 +53,6 @@ console.log("Hello, " + test.nameAndAge());
     5. Implement enough code to make the test pass 
 - reapet step 3-5 working one tiny step ahead
 - [codeutopia source](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
+
+### BDD
+- behavior driven development
