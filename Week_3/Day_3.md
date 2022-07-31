@@ -42,8 +42,10 @@ const dog = {
 
 - constructor key word allows us to define the properties of the object
 - we can add functions in regular syntax and call them just like working with objects that we are used to
+- using the new keyword alllows us to assign ab objects class to a variable 
 
-###Inheritance
+
+### Inheritance
 - build a new class on an existing class
 - this is used is two classes will share the same properties, including functions
 - using the keyword ```extends``` we can give inheritance to a subclass
