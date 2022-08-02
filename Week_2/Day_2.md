@@ -4,7 +4,7 @@
 - functions inside a object are called methods
 - the ```this``` keyword works by referencing a key in the object you are currently in when working with methods
 - Pass-By-Value
-> this means that the value that is to say that the arugement passed into a function is a copy
+> this means that the value (that is to say that the arugement) passed into a function is a copy
 - pass-by-reference 
 > objects however, can be passed by reference which means they can be changed, the reference is a pointer to the object
 > when you make a change to the object you are actually changing the object itself

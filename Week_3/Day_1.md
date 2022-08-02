@@ -51,7 +51,7 @@ console.log("Hello, " + test.nameAndAge());
     3. Choose the smallest possible piece of behavior for some inputs that you can think of
     4. Write a test which uses those inputs to call the function, and verify the behavior
     5. Implement enough code to make the test pass 
-- reapet step 3-5 working one tiny step ahead
+- repeat step 3-5 working one tiny step ahead
 - [codeutopia source](https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/)
 
 ### BDD

@@ -1,4 +1,4 @@
-### this was a test day
+### this was a test day no lecture
 - i didn't take many notes
 - some tips for recurison however
 > try to come up with a solution to the simplest portion of the problem
