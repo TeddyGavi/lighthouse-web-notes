@@ -4,7 +4,7 @@
 
 
 ### review of higher order functions and callbacks
-- callbacks are when a function is pased into another function as an argument
+- callbacks are when a function is passed into another function as an argument
 - higher order functions are anything that takes as a function as a parameter
 
 ### setTimeout
