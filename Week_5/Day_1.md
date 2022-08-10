@@ -15,10 +15,10 @@
 - PATH and METHOD are important now
 - the PATH says what resource the clients wants to act on, and the methods says what action it would like to perform
 - There are 9 HTTP request methods (verbs) but focus on 4
-1. GET
-2. POST
-3. PUT
-4. DELETE
+1. GET "get info from the server"
+2. POST "usually creates new data "
+3. PUT "editing existing data" 
+4. DELETE "delete some existing data"
 
 - what is URL (uniform Resource locator)
 
