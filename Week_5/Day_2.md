@@ -8,3 +8,23 @@
 
 - response body may contain HTML, JSON or many other types of data. 
 - 
+
+### Notes from lecture
+- IPv4 is 32 bit based
+- IPv6 is 128 bit based
+  - many more possible combinations for unique ID
+
+- HTTP is an app build on top of TCP
+- it uses a request and response method for transmitting data
+- HTTP Methods
+ - GET
+ - PATH
+ - PUT/PATCH
+ - DELETE
+ - HEAD
+
+- CRUD apps, this is: 
+  - create
+  - read
+  - update
+  - delete
