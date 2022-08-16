@@ -8,5 +8,5 @@
 - the opposite is called
 
 > deSerialization
-- 
+- taking data that is stored in a structured format and rebuilding it into an object
 
