@@ -17,10 +17,10 @@
 - HTTP is an app build on top of TCP
 - it uses a request and response method for transmitting data
 - HTTP Methods
- - GET
- - PATH
- - PUT/PATCH
- - DELETE
+ - GET - read or 'get' some data
+ - POST - create some new data 
+ - PUT/PATCH - edit data
+ - DELETE - delete existing data (without method override use post)
  - HEAD
 
 - CRUD apps, this is: 

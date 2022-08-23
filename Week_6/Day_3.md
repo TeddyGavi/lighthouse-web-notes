@@ -10,7 +10,7 @@
 ### working with cookies in express
 - can use res.cookie("name", res.body.name)
 - if the cookie parser is installed
-- we can also extract string data from the cookie with res.cookie.[name]
+- we can also extract string data from the cookie with req.cookie.[name]
 - this allows us to display information from the stored text in the cookie
 
 
