@@ -1,0 +1,8 @@
+- just struggling with the stretch features of the tinyapp
+- I found a solution to maintain the unique clicks issue only within the /u/:id route (the rerouting of the short url to the long url)
+- I checked to see if the user has a cookie, if they don't I created a new entry in the database and assign a new id to that user
+- now everytime that user clicks on the link, whether they are registered or not, we can record the click
+- this creates a large array with a bunch of multiple entries
+- therefore we need to first map over the array to extract the value we want from the array and then create a new set from the array 
+- This now allows a set object to be built which only has unique elements
+- when then can use the size method on the set object to determine the length of the array
