@@ -20,5 +20,17 @@
 - single column names
 - call your primary key id
 - for foreign tables call the FK <table>_id
-- 
 
+### SQL
+- DDL stands for data definition language 
+- common language for interacting with a DB
+- CREATE, ALTER, DROP
+> use CREATE to create table, data types must be specified
+> use ALTER, and ADD COLUMN to add new data keys into a existing tale
+> DROP is for deleting, delete on CASCADE will delete all records from other tables that depend on the current table
+
+### DATA types are important
+- we have to much more specific about what DATA type we are using when working with databases PostgresQL has a large variety of DATA types, important to keep it simple, and to no use user create DATA types
+- another good rule of thumb is to limit the data you are representing ie, we don't want to keep dates as long strings with formatted suffixes or we wouldn't want to store money as a values converted from anything other then cents, 
+> leave these formatting concerns up to the front-end/back-end
+- much better to simply store the number or the DATE as a ISO 8601 standard yyyy-mm-dd or currency as a int values with cents
