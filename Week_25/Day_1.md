@@ -18,3 +18,20 @@
   - forward and back in a browser or image viewer (doubly linked)
 - insert and delete are 0(1) constant time
 - where as prepend is O()
+
+- structure of article should be something like
+- intro
+- what is a linked list
+- other options (doubly linked lists etc)
+- compare to arrays
+  - advantages and disadvantages
+- applications
+- write some code
+  - outline the basic structure
+  - prepend,
+  - append
+  - delete
+  - update
+  - print
+  - sum all?
+    - compare speed to arrays
